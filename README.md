@@ -6,4 +6,5 @@
 #5 Hungrig sein
 Heute ist Sonntag
 
+Schnitzel wartet auf mich!
 Wir wollen Schnitzel
