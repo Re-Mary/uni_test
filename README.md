@@ -5,3 +5,5 @@
 #4 Wein
 #5 Hungrig sein
 Heute ist Sonntag
+
+Schnitzel wartet auf mich!
