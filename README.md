@@ -4,4 +4,4 @@
 #3 Katzen
 #4 Wein
 #5 Hungrig sein
-Heute ist Samstag
+Heute ist Sonntag
